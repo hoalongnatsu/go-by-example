@@ -69,6 +69,6 @@ func main() {
 // 	if answer == secretPersonNumber {
 // 		fmt.Printf("Congratulations!! You answer is correct, %s is the secret person.\n", person[answer])
 // 	} else {
-// 		fmt.Printf("Sorry!! You answer is incorrect, %d: %s is the secret person.\n", answer, person[answer])
+// 		fmt.Printf("Sorry!! You answer is incorrect, %d: %s is the secret person.\n", secretPersonNumber, person[answer])
 // 	}
 // }
